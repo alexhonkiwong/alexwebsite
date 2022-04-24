@@ -3,6 +3,10 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+# active or not?
+active: false
+
+
 # This file represents a page section.
 headless: true
 

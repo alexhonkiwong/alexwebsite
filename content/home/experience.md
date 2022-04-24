@@ -23,46 +23,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Professor
+    company: Erasmus University Rotterdam
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: EUR
+    #location: California
+    date_start: '2022-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+#        Responsibilities include:
+#        
+#        * <a href="a">https://www.example.com</a>
+#        * Modelling
+#        * Deploying
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral researcher
+    company: University of Wuerzburg
     company_url: ''
     company_logo: wuerzburg
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #location: California
+    date_start: '2018-05-15'
+    date_end: '2022-01-31'
+    description: |2-
+      Started working in Andre Pittig's lab. We examined the acquisition, generalization, and extinction of costly avoidance.
     
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Visiting fellow
+    company: KU Leuven
     company_url: ''
     company_logo: kuleuven
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #location: California
+    date_start: '2017-09-01'
+    date_end: '2017-12-01'
+    description: |2-
+      A lab stay in Tom Becker's lab. We collaborated on a project examining the link between trait anxiety and reduced typicality asymmetry in fear generalization.
     
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: PhD student
+    company: University of New South Wales
     company_url: ''
     company_logo: unsw
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #location: California
+    date_start: '2015-03-01'
+    date_end: '2019-02-28'
+    description: Thesis title - **The effect of trait anxiety on the generalisation of fear acquisition and extinction.**
+    
+      * [You can read my thesis here :point_right:] https://doi.org/10.26190/unsworks/21035
 
 design:
   columns: '1'

@@ -53,6 +53,14 @@ title: Alex H K Wong
 
 Oi, I work at {{% staticref "https://osf.io/myprojects/#preprints" %}}OSF{{% /staticref %}}
 
+Oi, I work at {{< staticref "https://osf.io/myprojects/#preprints" "newtab" >}}OSF{{< /staticref >}}
+
+
+
 <a href="https://example.com/blog/neat">Neat</a>
 
+<a href="https://www.example.com">a</a>
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+Download my {{< staticref "https://www.researchgate.net/profile/Alex-Hon-Ki-Wong" "newtab" >}}resumé{{< /staticref >}}.

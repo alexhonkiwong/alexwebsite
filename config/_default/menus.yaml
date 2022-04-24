@@ -10,24 +10,28 @@ main:
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#publications'
-    weight: 50
-  - name: Courses
-    url: courses/
-    weight: 60
-  - name: Contact
-    url: '#contact'
-    weight: 70
+#  - name: Projects
+#    url: '#projects'
+#    weight: 30
+#  - name: Talks
+#    url: '#talks'
+#    weight: 40
+#  - name: Publications
+#    url: '#publications'
+#    weight: 50
+#  - name: Courses
+#    url: courses/
+#    weight: 60
+#  - name: Contact
+#    url: '#contact'
+#    weight: 70
   - name: CV
-    url: uploads/resume.pdf
-    weight: 80
-  - name: New page
+    url: uploads/resume.pdf 
+    weight: 20
+  - name: Publications
     url: 'newpage'
-    weight: 90
+    weight: 10
+  - name: try
+    url: uploads/resume.pdf
+    weight: 100
+    
