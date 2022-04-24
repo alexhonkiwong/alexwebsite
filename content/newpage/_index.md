@@ -24,7 +24,11 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 5. **Wong, A. H. K.**, & Beckers, T. (2021). Trait anxiety is associated with reduced typicality asymmetry in fear generalization. *Behaviour Research and Therapy, 138*, 103802. https://doi.org/10.1016/j.brat.2021.103802 {{< staticref "uploads/AW_TB_BRAT_2021.pdf" "newtab" >}}[PDF]{{< /staticref >}} {{< staticref "https://osf.io/az2tw/" "newtab" >}}[OSF]{{< /staticref >}}
 
+6. Pittig, A., & **Wong, A. H. K.** (2021). Incentive-based, instructed, and social observational extinction of avoidance: Fear-opposite actions and their influence on fear extinction. *Behaviour Research and Therapy, 137*, 103797. https://doi.org/10.1016/j.brat.2020.103797 {{< staticref "uploads/AP_AW_BRAT_2021.pdf" "newtab" >}}[PDF]{{< /staticref >}} {{< staticref "https://osf.io/7en2h/" "newtab" >}}[OSF]{{< /staticref >}}
 
+7. **Wong, A. H. K.**, Glück, V. M., Boschet, J. M., & Engelke, P. (2020). Generalization of extinction with a generalization stimulus is determined by learnt threat beliefs. *Behaviour Research and Therapy, 125*, 103755. https://doi.org/10.1016/j.brat.2020.103755 {{< staticref "uploads/AW_VG_JB_PE_BRAT_2020.pdf" "newtab" >}}[PDF]{{< /staticref >}}
+
+8. **Wong, A. H. K.**, & Pittig, A. (2020). Costly avoidance triggered by categorical fear generalization. *Behaviour Research and Therapy, 129*, 103606. https://doi.org/10.1016/j.brat.2020.103606 {{< staticref "uploads/AW_AP_BRAT_2020.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
 
 :thinking:
