@@ -43,7 +43,7 @@ social:
 #  link: https://alexhkwong.netlify.app/newpage/  
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV.pdf
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -52,7 +52,7 @@ social:
   link: https://www.researchgate.net/profile/Alex-Hon-Ki-Wong
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/
+  link: https://scholar.google.com/citations?user=hGM68v4AAAAJ&hl=en
 - display:
     header: false
   icon: twitter
