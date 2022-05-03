@@ -45,7 +45,7 @@ experience:
     date_start: '2018-05-15'
     date_end: '2022-01-31'
     description: |2-
-      Started working in Andre Pittig's lab. We examined the acquisition, generalization, and extinction of costly avoidance.
+      In Andre Pittig's lab, we examined the acquisition, generalization, and extinction of costly avoidance.
     
   - title: Visiting fellow
     company: KU Leuven
@@ -55,7 +55,8 @@ experience:
     date_start: '2017-09-01'
     date_end: '2017-12-01'
     description: |2-
-      A lab stay in Tom Becker's lab. We collaborated on a project examining the link between trait anxiety and reduced typicality asymmetry in fear generalization.
+      A lab stay in Tom Becker's lab.
+      We collaborated on a project examining the link between trait anxiety and reduced typicality asymmetry in fear generalization.
     
   - title: PhD student
     company: University of New South Wales

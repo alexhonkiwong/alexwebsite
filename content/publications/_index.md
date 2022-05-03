@@ -20,7 +20,8 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 3. Pittig, A., Glück, V. M., Boschet, B. M., **Wong, A. H. K.**, & Engelke, P. (2021). Increased anxiety of public situations during the COVID-19 pandemic: Evidence from a community and a patient sample. Clinical Psychology in Europe, 3(2), 1-17. https://doi.org/10.32872/cpe.4221 **{{< staticref "uploads/AP_VG_JB_AW_PE_2021.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
 
-4. **Wong, A. H. K.**, & Pittig, A. (2021). A dimensional measure of safety behavior: A non-dichotomous assessment of costly avoidance in human fear conditioning. *Psychological Research*. https://doi.org/10.1007/s00426-021-01490-w **{{< staticref "uploads/AW_AP_Psychological Research_2021.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
+4. **Wong, A. H. K.**, & Pittig, A. (2021). A dimensional measure of safety behavior: A non-dichotomous assessment of costly avoidance in human fear conditioning. *Psychological Research*. https://doi.org/10.1007/s00426-021-01490-w **{{< staticref "uploads/AW_AP_Psychological Research_2021.pdf" "newtab" >}}[PDF]{{< /staticref >}}**  **{{< staticref "https://osf.io/z7jpt/" "newtab" >}}[OSF]{{< /staticref >}}**
+
 
 5. **Wong, A. H. K.**, & Beckers, T. (2021). Trait anxiety is associated with reduced typicality asymmetry in fear generalization. *Behaviour Research and Therapy, 138*, 103802. https://doi.org/10.1016/j.brat.2021.103802 **{{< staticref "uploads/AW_TB_BRAT_2021.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/az2tw/" "newtab" >}}[OSF]{{< /staticref >}}**
 
