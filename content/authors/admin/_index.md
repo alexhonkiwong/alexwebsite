@@ -37,7 +37,7 @@ social:
 #  link: https://alexhkwong.netlify.app/newpage/
 - icon: book
   icon_pack: fas
-  link: https://alexhkwong.netlify.app/publications/
+  link: http://www.alexhkwong.com/publications/
 #- icon: user-tie
 #  icon_pack: fas
 #  link: https://alexhkwong.netlify.app/newpage/  
