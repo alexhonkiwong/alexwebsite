@@ -27,7 +27,8 @@ Besides studying the pathological features of safety behavior in clinical anxiet
 
 Related work:
 
-**Wong, A. H. K.**, & Pittig, A. (under review). Threat belief determines the degree of costly safety behavior: Assessing rule-based generalization of safety behavior with a dimensional measure of avoidance.
+**Wong, A. H. K.**, & Pittig, A. (2022). Threat belief determines the degree of costly safety behavior: Assessing rule-based generalization of safety behavior with a dimensional measure of avoidance. *Behaviour Research and Therapy, 156*, 104158. https://doi.org/10.1016/j.brat.2022.104158  
+
 
 **Wong, A. H. K.**, & Pittig, A. (2021). A dimensional measure of safety behavior: A non-dichotomous assessment of costly avoidance in human fear conditioning. *Psychological Research*. https://doi.org/10.1007/s00426-021-01490-w 
 
