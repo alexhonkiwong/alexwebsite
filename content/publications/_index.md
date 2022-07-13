@@ -11,7 +11,7 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 
 
-1. **Wong, A. H. K.** & Pittig, A. (2022). Threat belief determines the degree of costly safety behavior: Assessing rule-based generalization of safety behavior with a dimensional measure of avoidance. *Behaviour Research and Therapy, 156*, 104158. https://doi.org/10.1016/j.brat.2022.104158  
+1. **Wong, A. H. K.** & Pittig, A. (2022). Threat belief determines the degree of costly safety behavior: Assessing rule-based generalization of safety behavior with a dimensional measure of avoidance. *Behaviour Research and Therapy, 156*, 104158. https://doi.org/10.1016/j.brat.2022.104158  **{{< staticref "https://osf.io/62qxy/" "newtab" >}}[OSF]{{< /staticref >}}**
 
 
 2. **Wong, A. H. K.**, Wirth, F. M., & Pittig, A. (2022). Avoidance of learnt fear: Models, potential mechanisms, and future directions. *Behaviour Research and Therapy, 151*, 104056. https://doi.org/10.1016/j.brat.2022.104056  **{{< staticref "uploads/AW_FW_AP_BRAT_2022.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
