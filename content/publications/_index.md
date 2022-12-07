@@ -10,8 +10,9 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 
 
+1.  **Wong, A. H. K.**, Lee, J. C., Engelke, P., & Pittig, A. (2023). Reduction of costly safety behaviors after extinction with a generalization stimulus is determined by individual differences in generalization rules. *Behaviour Research and Therapy, 160*, 104233. https://doi.org/10.1016/j.brat.2022.104233  **{{< staticref "uploads/AW_JL_PE_AP_BRAT_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/xfj26" "newtab" >}}[OSF]{{< /staticref >}}**
 
-1.  Pittig, A & **Wong, A. H. K.** (2022). Reducing the return of avoidance and fear by directly targeting avoidance: Comparing incentive-based and instructed extinction of avoidance to passive fear extinction. *Journal of Experimental Psychopathology, 13*(4), 1-13. https://doi.org/10.1177/20438087221136424  **{{< staticref "uploads/AP_AW_Exp_Psychopath_2022.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/2xec3/" "newtab" >}}[OSF]{{< /staticref >}}**
+2.  Pittig, A & **Wong, A. H. K.** (2022). Reducing the return of avoidance and fear by directly targeting avoidance: Comparing incentive-based and instructed extinction of avoidance to passive fear extinction. *Journal of Experimental Psychopathology, 13*(4), 1-13. https://doi.org/10.1177/20438087221136424  **{{< staticref "uploads/AP_AW_Exp_Psychopath_2022.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/2xec3/" "newtab" >}}[OSF]{{< /staticref >}}**
 
 14.  **Wong, A. H. K.** & Pittig, A. (2022). Threat belief determines the degree of costly safety behavior: Assessing rule-based generalization of safety behavior with a dimensional measure of avoidance. *Behaviour Research and Therapy, 156*, 104158. https://doi.org/10.1016/j.brat.2022.104158  **{{< staticref "https://osf.io/62qxy/" "newtab" >}}[OSF]{{< /staticref >}}**
 
