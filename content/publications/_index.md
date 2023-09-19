@@ -7,7 +7,7 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 
 
-
+1. Testing
 
 
 1.  **Wong, A. H. K.**, Lee, J. C., Engelke, P., & Pittig, A. (2023). Reduction of costly safety behaviors after extinction with a generalization stimulus is determined by individual differences in generalization rules. *Behaviour Research and Therapy, 160*, 104233. https://doi.org/10.1016/j.brat.2022.104233  **{{< staticref "uploads/AW_JL_PE_AP_BRAT_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/xfj26" "newtab" >}}[OSF]{{< /staticref >}}**
