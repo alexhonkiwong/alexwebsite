@@ -4,17 +4,19 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 <br/><br/>
 
+1. Aslanidou, A., Andreatta, M., **Wong, A. H. K.**, & Wieser, M. J. (2023). No influence of threat uncertainty on fear generalization. *Psychophysiology*, e14423. https://doi.org/10.1111/psyp.14423 **{{< staticref "uploads/AA_MA_AW_MW_2023_Psychophysiology.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/tdqj3/?view_only=fb8ca7beabb444d38aadd8a999249a44" "newtab" >}}[OSF]{{< /staticref >}}**    
 
+1. Glück, V. M†., Hilger, K†., Engelke, P†., **Wong, A. H. K.**, Boschet, J. M., & Pittig, A. (2023). A network perspective on real-life threat situations: Complex relations between situation-specific anxiety, trait anxiety, perceived threat, positive outcomes, approach motivation and approach and avoidance responses. *Journal of Clinical Psychology* https://doi.org/10.1002/jclp.23575 **{{< staticref "uploads/VG_PE_KH_AW_JB_AP_2023_Clin_Psych.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
 
+1. **Wong, A. H. K.**, Aslanidou, A., Malbec, M., Pittig, A., Wieser, M. J., & Andreatta, M. (2023). A systematic review of the inter-individual differences in avoidance learning. *Collabra: Psychology, 9*(1), 77856. https://doi.org/10.1525/collabra.77856 **{{< staticref "uploads/AW_AA_MM_AP_MW_MA_Collabra_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
 
-1. **Wong, A. H. K.** & Pittig, A. (2023). Reducing avoidance of learnt fear: Extinction of an imminent threat signal partly decreases costly avoidance to a distal threat signal. *Journal of Experimental Psychopathology, 14*(2), 1-16. https://doi.org/10.1177/20438087231175  ****{{< staticref "uploads/AW_AP_JEP_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/yznaw" "newtab" >}}[OSF]{{< /staticref >}}**
+1. **Wong, A. H. K.** & Pittig, A. (2023). Reducing avoidance of learnt fear: Extinction of an imminent threat signal partly decreases costly avoidance to a distal threat signal. *Journal of Experimental Psychopathology, 14*(2), 1-16. https://doi.org/10.1177/20438087231175  **{{< staticref "uploads/AW_AP_JEP_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/yznaw" "newtab" >}}[OSF]{{< /staticref >}}**
 
 1.  **Wong, A. H. K.**, Lee, J. C., Engelke, P., & Pittig, A. (2023). Reduction of costly safety behaviors after extinction with a generalization stimulus is determined by individual differences in generalization rules. *Behaviour Research and Therapy, 160*, 104233. https://doi.org/10.1016/j.brat.2022.104233  **{{< staticref "uploads/AW_JL_PE_AP_BRAT_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/xfj26" "newtab" >}}[OSF]{{< /staticref >}}**
 
 2.  Pittig, A & **Wong, A. H. K.** (2022). Reducing the return of avoidance and fear by directly targeting avoidance: Comparing incentive-based and instructed extinction of avoidance to passive fear extinction. *Journal of Experimental Psychopathology, 13*(4), 1-13. https://doi.org/10.1177/20438087221136424  **{{< staticref "uploads/AP_AW_Exp_Psychopath_2022.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/2xec3/" "newtab" >}}[OSF]{{< /staticref >}}**
 
 14.  **Wong, A. H. K.** & Pittig, A. (2022). Threat belief determines the degree of costly safety behavior: Assessing rule-based generalization of safety behavior with a dimensional measure of avoidance. *Behaviour Research and Therapy, 156*, 104158. https://doi.org/10.1016/j.brat.2022.104158  **{{< staticref "https://osf.io/62qxy/" "newtab" >}}[OSF]{{< /staticref >}}**
-
 
 13.  **Wong, A. H. K.**, Wirth, F. M., & Pittig, A. (2022). Avoidance of learnt fear: Models, potential mechanisms, and future directions. *Behaviour Research and Therapy, 151*, 104056. https://doi.org/10.1016/j.brat.2022.104056  **{{< staticref "uploads/AW_FW_AP_BRAT_2022.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
 
