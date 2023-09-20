@@ -44,7 +44,7 @@ Extinction refers to the repeated presentations of a feared stimulus in the abse
 
 Related work:
 
-**Wong, A. H. K.**, Lee, J. C., Engelke, P., & Pittig, A. (in prep.). Reduction of costly safety behavior after extinction with a generalization stimulus is determined by learnt threat beliefs.
+**Wong, A. H. K.**, Lee, J. C., Engelke, P., & Pittig, A. (in prep.). Reduction of costly safety behaviors after extinction with a generalization stimulus is determined by individual differences in generalization rules. *Behaviour Research and Therapy, 160*, 104233. https://doi.org/10.1016/j.brat.2022.104233
 
  **Wong, A. H. K.**, Glück, V. M., Boschet, J. M., & Engelke, P. (2020). Generalization of extinction with a generalization stimulus is determined by learnt threat beliefs. *Behaviour Research and Therapy, 125*, 103755. https://doi.org/10.1016/j.brat.2020.103755 
 
