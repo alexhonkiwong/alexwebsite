@@ -3,7 +3,12 @@
 The pdf versions of the papers below are available as a means to provide timely dissemination of academic work on a non-commercial basis. Your access to the papers constitutes your request for a personal copy of the article, and my distribution of said personal copy.
 
 <br/><br/>
+
 <br/><br/>
+1. **Wong, A. H. K.**, van Dis, E., Pittig, A., Hagenaars, M., & Engelhard, I. M. (2023). The degree of safety behaviors to a safety stimulus predicts development of threat beliefs. *Behaviour Research and Therapy, 170*, 104423. https://doi.org/10.1016/j.brat.2023.104423 **{{< staticref "uploads/AW_EvD_AP_MH_IE_BRAT_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/2ex5y" "newtab" >}}[OSF]{{< /staticref >}}**    
+<br/>
+<br/>
+
 1. Aslanidou, A., Andreatta, M., **Wong, A. H. K.**, & Wieser, M. J. (2023). No influence of threat uncertainty on fear generalization. *Psychophysiology*, e14423. https://doi.org/10.1111/psyp.14423 **{{< staticref "uploads/AA_MA_AW_MW_2023_Psychophysiology.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/tdqj3/?view_only=fb8ca7beabb444d38aadd8a999249a44" "newtab" >}}[OSF]{{< /staticref >}}**    
 <br/>
 <br/>
