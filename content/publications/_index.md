@@ -8,11 +8,10 @@ The pdf versions of the papers below are available as a means to provide timely 
 1. **Wong, A. H. K.**, van Dis, E., Pittig, A., Hagenaars, M., & Engelhard, I. M. (2023). The degree of safety behaviors to a safety stimulus predicts development of threat beliefs. *Behaviour Research and Therapy, 170*, 104423. https://doi.org/10.1016/j.brat.2023.104423 **{{< staticref "uploads/AW_EvD_AP_MH_IE_BRAT_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/2ex5y" "newtab" >}}[OSF]{{< /staticref >}}**    
 <br/>
 <br/>
-
-1. Aslanidou, A., Andreatta, M., **Wong, A. H. K.**, & Wieser, M. J. (2023). No influence of threat uncertainty on fear generalization. *Psychophysiology*, e14423. https://doi.org/10.1111/psyp.14423 **{{< staticref "uploads/AA_MA_AW_MW_2023_Psychophysiology.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/tdqj3/?view_only=fb8ca7beabb444d38aadd8a999249a44" "newtab" >}}[OSF]{{< /staticref >}}**    
+2. Aslanidou, A., Andreatta, M., **Wong, A. H. K.**, & Wieser, M. J. (2023). No influence of threat uncertainty on fear generalization. *Psychophysiology*, e14423. https://doi.org/10.1111/psyp.14423 **{{< staticref "uploads/AA_MA_AW_MW_2023_Psychophysiology.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/tdqj3/?view_only=fb8ca7beabb444d38aadd8a999249a44" "newtab" >}}[OSF]{{< /staticref >}}**    
 <br/>
 <br/>
-1. Glück, V. M†., Hilger, K†., Engelke, P†., **Wong, A. H. K.**, Boschet, J. M., & Pittig, A. (2023). A network perspective on real-life threat situations: Complex relations between situation-specific anxiety, trait anxiety, perceived threat, positive outcomes, approach motivation and approach and avoidance responses. *Journal of Clinical Psychology* https://doi.org/10.1002/jclp.23575 **{{< staticref "uploads/VG_PE_KH_AW_JB_AP_2023_Clin_Psych.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
+3. Glück, V. M†., Hilger, K†., Engelke, P†., **Wong, A. H. K.**, Boschet, J. M., & Pittig, A. (2023). A network perspective on real-life threat situations: Complex relations between situation-specific anxiety, trait anxiety, perceived threat, positive outcomes, approach motivation and approach and avoidance responses. *Journal of Clinical Psychology* https://doi.org/10.1002/jclp.23575 **{{< staticref "uploads/VG_PE_KH_AW_JB_AP_2023_Clin_Psych.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
 <br/>
 <br/>
 1. **Wong, A. H. K.**, Aslanidou, A., Malbec, M., Pittig, A., Wieser, M. J., & Andreatta, M. (2023). A systematic review of the inter-individual differences in avoidance learning. *Collabra: Psychology, 9*(1), 77856. https://doi.org/10.1525/collabra.77856 **{{< staticref "uploads/AW_AA_MM_AP_MW_MA_Collabra_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
