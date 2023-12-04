@@ -4,7 +4,8 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 <br/><br/>
 
-<br/><br/>
+<br/>
+<br/>
 1. **Wong, A. H. K.**, van Dis, E., Pittig, A., Hagenaars, M., & Engelhard, I. M. (2023). The degree of safety behaviors to a safety stimulus predicts development of threat beliefs. *Behaviour Research and Therapy, 170*, 104423. https://doi.org/10.1016/j.brat.2023.104423 **{{< staticref "uploads/AW_EvD_AP_MH_IE_BRAT_2023.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/2ex5y" "newtab" >}}[OSF]{{< /staticref >}}**    
 <br/>
 <br/>
@@ -70,27 +71,26 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 <br/><br/>
 ## **<p style="text-align: center;">Work in progress</p>**
-<br/><br/>
 
-1.  **Wong, A. H. K.**, van Dis, E. A. M., Pittig, A., Hagenaars, M. A., & Engelhard, I. M. (under review.). The extent of safety behaviors engagement to a safety stimulus predicts maladaptive threat beliefs. **{{< staticref "https://osf.io/5ceza/" "newtab" >}}[OSF]{{< /staticref >}}**   
+
 <br/>
 <br/>
-2. **Wong, A. H. K.**, Franzen, M., & Wieser, M. J. (under review.). The effect of outcome devaluation of the generalization of costly safety behavior. **{{< staticref "https://osf.io/gvzyn" "newtab" >}}[OSF]{{< /staticref >}}**
+1. **Wong, A. H. K.**, Franzen, M., & Wieser, M. J. (under review.). The effect of outcome devaluation of the generalization of costly safety behavior. **{{< staticref "https://osf.io/gvzyn" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/>
 <br/>
-3. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (under review). Persistence of sfety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
+2. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (under review). Persistence of sfety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
+<br/>
+<br/>
+3. Kesim, I. E., Pittig, A., & **Wong, A. H. K.** (submitted.). The effect of typicality training on costly safety behavior generalization. **{{< staticref "https://osf.io/d75rg" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/>
 <br/>
 4. **Wong, A. H. K.**, Pittig, A., & Engelhard, I. M. (in prep.). The generalization of threat beliefs to novel safety stimuli induced by safety behaviors. **{{< staticref "https://osf.io/auvpy" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/>
 <br/>
-5. Kesim, I. E., Pittig, A., & **Wong, A. H. K.** (in prep.). The effect of typicality training on costly safety behavior generalization. **{{< staticref "https://osf.io/d75rg" "newtab" >}}[OSF]{{< /staticref >}}**
+5. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (in prep.). Safety behavior generalization to taxonomic- and thematic-related stimuli. **{{< staticref "https://osf.io/3zftq" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/>
 <br/>
-6. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (in prep.). Safety behavior generalization to taxonomic- and thematic-related stimuli. **{{< staticref "https://osf.io/3zftq" "newtab" >}}[OSF]{{< /staticref >}}**
-<br/>
-<br/>
-7. **Wong, A. H. K.**, & Andreatta, M. (in prep.). Relief and the persistence of avoidance of learnt fear. **{{< staticref "https://osf.io/z4gmw/" "newtab" >}}[OSF]{{< /staticref >}}**
+6. **Wong, A. H. K.**, & Andreatta, M. (in prep.). Relief and the persistence of avoidance of learnt fear. **{{< staticref "https://osf.io/z4gmw/" "newtab" >}}[OSF]{{< /staticref >}}**
 
 
 
