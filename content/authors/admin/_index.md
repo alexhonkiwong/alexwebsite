@@ -72,7 +72,7 @@ In 2015, I started my PhD project supervised by {{< staticref "https://www.unsw.
 In 2018, I started working as a postdoc with {{< staticref "https://www.psych.uni-goettingen.de/en/translational/team/andre-pittig" "newtab" >}}Andre Pittig{{< /staticref >}} at the University of Würzburg, Germany. My postdoc work examined the generalization and reduction of pathological, costly safety behavior. My work also focused on developing a laboratory measure that more closely models pathological safety behavior in clinical anxiety. Over the period of my postdoc training, I have also developed interest in examining avoidance of learnt fear, that is, avoidance of the feared stimulus/situation per se.
 
 
-In 2022, I joined the Clinical Psychology section at Erasmus University Rotterdam as a junior faculty member. My current plans are to expand on the {{< staticref "https://alexhkwong.netlify.app/research_interests/" "newtab" >}}research interests{{< /staticref >}} I have developed over my research training.
+In 2022, I joined the Clinical Psychology section at Erasmus University Rotterdam as a junior faculty member, under the guidance of {{< staticref "https://www.eur.nl/en/essb/people/matthias-wieser" "newtab" >}}Matthias Wieser{{< /staticref >}}. My current plans are to expand on the {{< staticref "https://alexhkwong.netlify.app/research_interests/" "newtab" >}}research interests{{< /staticref >}} I have developed over my research training.
 
 
 
