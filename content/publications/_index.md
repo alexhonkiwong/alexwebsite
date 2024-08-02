@@ -4,6 +4,7 @@ The pdf versions of the papers below are available as a means to provide timely 
 <br/><br/>
 
 <br/><br/>
+
 1. **Wong, A. H. K.**, Pittig, A., & Engelhard, I. M. (2024). The generalization of threat beliefs to novel safety stimuli induced by safety behaviors. *Behavioural Brain Research, 470*, 115078. https://doi.org/10.1016/j.bbr.2024.115078 **{{< staticref "uploads/AW_AP_IE_Behavioural Brain Research_2024.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/z2dgh/" "newtab" >}}[OSF]{{< /staticref >}}**   
 <br/><br/>
 2. Kesim, I. E., Pittig, A., & **Wong, A. H. K.**. (2024). The effect of typicality training on costly safety behavior generalization. *Psychological Research, 88*, 1771-1782. https://doi.org/10.1007/s00426-024-01979-0 **{{< staticref "uploads/IK_AP_AW_2024_Psychological Research.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/axc3p/" "newtab" >}}[OSF]{{< /staticref >}}**   
