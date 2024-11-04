@@ -59,13 +59,13 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 
 <br/><br/>
-1. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (under review). Persistence of sfety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
+1. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (approved in principle). Persistence of sfety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
 <br/><br/>
-2. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (in prep.). Safety behavior generalization to taxonomic- and thematic-related stimuli. **{{< staticref "https://osf.io/3zftq" "newtab" >}}[OSF]{{< /staticref >}}**
+2. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (under review). Safety behavior generalization to taxonomic- and thematic-related stimuli. **{{< staticref "https://osf.io/3zftq" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
 3. **Wong, A. H. K.**, Wieser, M. J., & Andreatta, M. (under review). Relief and the persistence of avoidance of learnt fear. **{{< staticref "https://osf.io/z4gmw/" "newtab" >}}[OSF]{{< /staticref >}}**
 4. Chang, L., Wieser, M. J., & **Wong, A. H. K.**. (in prep.). The role of unconditioned stimulus revaluation in avoidance of learnt fear. **{{< staticref "https://osf.io/yta8h/" "newtab" >}}[OSF]{{< /staticref >}}**
-5. **Wong, A. H. K.** (in prep.). A systematic review of generalization of extinction learning
+5. **Wong, A. H. K.** (submitted). Spreading the reduction of fear: A systematic review on generalization of extinction learning in human fear conditioning
 
 
 
