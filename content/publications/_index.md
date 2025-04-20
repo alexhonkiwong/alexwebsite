@@ -65,13 +65,20 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 
 <br/><br/>
-1. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (approved in principle). Persistence of sfety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
+1. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (approved in principle). Persistence of safety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
 <br/><br/>
 2. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (under review). Safety behavior generalization to taxonomic- and thematic-related stimuli. **{{< staticref "https://osf.io/3zftq" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
 3. **Wong, A. H. K.**, Wieser, M. J., & Andreatta, M. (under review). Relief and the persistence of avoidance of learnt fear. **{{< staticref "https://osf.io/z4gmw/" "newtab" >}}[OSF]{{< /staticref >}}**
-4. Chang, L., Wieser, M. J., & **Wong, A. H. K.**. (in prep.). The role of unconditioned stimulus revaluation in avoidance of learnt fear. **{{< staticref "https://osf.io/yta8h/" "newtab" >}}[OSF]{{< /staticref >}}**
-5. **Wong, A. H. K.** (submitted). Spreading the reduction of fear: A systematic review on generalization of extinction learning in human fear conditioning
+<br/><br/>
+4. Chang, L., Wieser, M. J., & **Wong, A. H. K.**. (under review). The role of unconditioned stimulus revaluation in avoidance of learnt fear. **{{< staticref "https://osf.io/yta8h/" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
+5. Engelke, P., **Wong, A. H. K.**, & Pittig, A. (under review). Induced awareness of stimulus differences impedes the generalization of extinction learning with various, highly similar stimuli. **{{< staticref "https://osf.io/qk2r6/" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
+6. Otto, M. W., Long, L. J., Papini, S., ..., **Wong, A. H. K.** et al. (under review). Study protocol for virtual reality exposure and public speaking anxiety: Moderating role of state and trait positive affect. Submitted as a pre-registered report. **{{< staticref "https://osf.io/4ucmj" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
+7. Stegmann, Y., Battaglia, S., Carsten, H. P., ..., **Wong, A. H. K.** et al. (under review). Coherence of gamma-band EEG activity as a basis for associative threat learning: A registered report of a large-scale multi-site replication study. Submitted as a pre-registered report. **{{< staticref "https://osf.io/km5jv/" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
 
 
 
