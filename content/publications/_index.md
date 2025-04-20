@@ -5,7 +5,7 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 <br/><br/>
 
-1.**Wong, A. H. K.** (2025).Spreading the reduction of fear: A narrative review of generalization of extinction learning in human fear conditioning. *Clinical Psychology Review, 118*, 102580. https://doi.org/10.1016/j.cpr.2025.102580 **{{< staticref "uploads/AW_Clinical Psychology Review_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://doi.org/10.1016/j.cpr.2025.102580" "newtab" >}}**
+1. **Wong, A. H. K.** (2025).Spreading the reduction of fear: A narrative review of generalization of extinction learning in human fear conditioning. *Clinical Psychology Review, 118*, 102580. https://doi.org/10.1016/j.cpr.2025.102580 **{{< staticref "uploads/AW_Clinical Psychology Review_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://doi.org/10.1016/j.cpr.2025.102580" "newtab" >}}**
 <br/><br/>
 2. Aslanidou, A., Andreattam M., **Wong, A. H. K.**, & Wieser, M. J. (2025).Generalized expectancy of threat in threatening compared to safe contexts. *Social Cognitive and Affective Neuroscience, 20*(1), nsae097. https://doi.org/10.1093/scan/nsae097 **{{< staticref "uploads/AA_MA_AW_MW_SCAN_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://doi.org/10.17605/OSF.IO/9ZCEW" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
