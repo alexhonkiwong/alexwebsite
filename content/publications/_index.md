@@ -7,11 +7,19 @@ The pdf versions of the papers below are available as a means to provide timely 
 
 
 
-1. Chang, L. M., Wieser, M. J., & **Wong, A. H. K.** (2025). Increase in avoidance of learnt fear via unconditioned stimulus revaluation. *Behaviour Research and Therapy, 193,* 104813. https://doi.org/10.1016/j.brat.2025.104813 **{{< staticref "uploads/LC_MW_AW_BRAT_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/vgbfq/overview" "newtab" >}}[OSF]{{< /staticref >}}**
+1. Li, M., **Wong, A. H. K.**, von Dawans, B., Domes, G., & Wieser, M. J. (2026). Acute stress impairs attentional control and emotional processing in social anxiety. *iScience, 29*(5), 115767. https://doi.org/10.1016/j.isci.2026.115767 **{{< staticref "uploads/ML_AW_BD_GD_MW_iScience_2026.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/dkybj/overview" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
-2. Engelke, P., **Wong, A. H. K.**, & Pittig, A. (2025). Induced awareness of stimulus differences impedes the generalization of extinction learning with various, highly similar stimuli. *Behaviour Research and Therapy, 192*, 104787. https://doi.org/10.1016/j.brat.2025.104787 **{{< staticref "uploads/PE_AW_AP_BRAT_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
+2.  **Wong, A. H. K.**, Wieser, M. J., & Andreatta, M. (2026). The role of relief in persistent avoidance of learnt fear. *Behaviour Research and Therapy, 198*, 104976. 10.1016/j.brat.2026.104976 **{{< staticref "uploads/AW_MW_MA_BRAT_2026.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/cmsa3/overview" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
-3.  **Wong, A. H. K.** (2025). Spreading the reduction of fear: A narrative review of generalization of extinction learning in human fear conditioning. *Clinical Psychology Review, 118*, 102580. https://doi.org/10.1016/j.cpr.2025.102580  **{{< staticref "uploads/AW_Clinical Psychology Review_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
+3. Otto, M. W., Long, L. J., Papini, S., …, **Wong, A. H. K.** et al. (2025). Moderating role of state and trait positive affect in virtual reality exposure for public speaking anxiety: Protocol for a multisite experimental study. *JMIR Research Protocol, 14*, e80010. doi: 10.2196/80010 **{{< staticref "uploads/MO et al_JMIR Research Protocols_2026.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
+<br/><br/>
+4. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (2025). Safety behavior generalization to taxonomic- and thematic-related stimuli. *Behaviour Research and Therapy, 195*, 104881. https://doi.org/10.1016/j.brat.2025.104881 **{{< staticref "uploads/AW_JZ_SV_BRAT_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/3zftq/overview" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
+5. Chang, L. M., Wieser, M. J., & **Wong, A. H. K.** (2025). Increase in avoidance of learnt fear via unconditioned stimulus revaluation. *Behaviour Research and Therapy, 193,* 104813. https://doi.org/10.1016/j.brat.2025.104813 **{{< staticref "uploads/LC_MW_AW_BRAT_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/vgbfq/overview" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
+6. Engelke, P., **Wong, A. H. K.**, & Pittig, A. (2025). Induced awareness of stimulus differences impedes the generalization of extinction learning with various, highly similar stimuli. *Behaviour Research and Therapy, 192*, 104787. https://doi.org/10.1016/j.brat.2025.104787 **{{< staticref "uploads/PE_AW_AP_BRAT_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://osf.io/yj3kp/overview" "newtab" >}}[OSF]{{< /staticref >}}**
+<br/><br/>
+7.  **Wong, A. H. K.** (2025). Spreading the reduction of fear: A narrative review of generalization of extinction learning in human fear conditioning. *Clinical Psychology Review, 118*, 102580. https://doi.org/10.1016/j.cpr.2025.102580  **{{< staticref "uploads/AW_Clinical Psychology Review_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}**
 <br/><br/>
 3. Aslanidou, A., Andreatta M., **Wong, A. H. K.**, & Wieser, M. J. (2025).Generalized expectancy of threat in threatening compared to safe contexts. *Social Cognitive and Affective Neuroscience, 20*(1), nsae097. https://doi.org/10.1093/scan/nsae097 **{{< staticref "uploads/AA_MA_AW_MW_SCAN_2025.pdf" "newtab" >}}[PDF]{{< /staticref >}}** **{{< staticref "https://doi.org/10.17605/OSF.IO/9ZCEW" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
@@ -71,17 +79,15 @@ The pdf versions of the papers below are available as a means to provide timely 
 <br/><br/>
 1. **Wong, A. H. K†**, Harrewijn, A†, Aslanidou, A., Malbec, M., Andreatta, M., Franzen, M., & Wieser, M. J. (approved in principle). Persistence of safety behaviors or the acquisition of new ones? The effect of cross-US reinstatement in safety behaviors. Submitted as a pre-registered report.
 <br/><br/>
-2. **Wong, A. H. K.**, Verheyen, S., & Zaman, J. (under review). Safety behavior generalization to taxonomic- and thematic-related stimuli. **{{< staticref "https://osf.io/3zftq" "newtab" >}}[OSF]{{< /staticref >}}**
+2. Stegmann, Y., Battaglia, S., Carsten, H. P., ..., **Wong, A. H. K.** et al. (under review). Coherence of gamma-band EEG activity as a basis for associative threat learning: A registered report of a large-scale multi-site replication study. Submitted as a pre-registered report. **{{< staticref "https://osf.io/km5jv/" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
-3. **Wong, A. H. K.**, Wieser, M. J., & Andreatta, M. (under review). Relief and the persistence of avoidance of learnt fear. **{{< staticref "https://osf.io/z4gmw/" "newtab" >}}[OSF]{{< /staticref >}}**
+3. **Wong, A. H. K.**, Quintero, M. J., Vervliet, B., & Wieser, M. J. (in prep.). The effect of gradual extinction learning on the return of fear and avoidance. **{{< staticref "https://osf.io/8pzhd/overview" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
-4. Chang, L., Wieser, M. J., & **Wong, A. H. K.**. (under review). The role of unconditioned stimulus revaluation in avoidance of learnt fear. **{{< staticref "https://osf.io/yta8h/" "newtab" >}}[OSF]{{< /staticref >}}**
+4. **Wong, A. H. K.**, Aslanidou, A., Wieser, M. J., & Urcelay, G. P. (in prep.). The effect of safety signals on threat responses to safety cues. **{{< staticref "https://osf.io/zq7gh/overview" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
-5. Engelke, P., **Wong, A. H. K.**, & Pittig, A. (under review). Induced awareness of stimulus differences impedes the generalization of extinction learning with various, highly similar stimuli. **{{< staticref "https://osf.io/qk2r6/" "newtab" >}}[OSF]{{< /staticref >}}**
+5. Zaman, J., **Wong, A. H. K.**, & Verheyen, S. V. (in prep.). Differences in category membership and conceptual fear generalization. **{{< staticref "https://osf.io/vtzju/overview" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
-6. Otto, M. W., Long, L. J., Papini, S., ..., **Wong, A. H. K.** et al. (under review). Study protocol for virtual reality exposure and public speaking anxiety: Moderating role of state and trait positive affect. Submitted as a pre-registered report. **{{< staticref "https://osf.io/4ucmj" "newtab" >}}[OSF]{{< /staticref >}}**
-<br/><br/>
-7. Stegmann, Y., Battaglia, S., Carsten, H. P., ..., **Wong, A. H. K.** et al. (under review). Coherence of gamma-band EEG activity as a basis for associative threat learning: A registered report of a large-scale multi-site replication study. Submitted as a pre-registered report. **{{< staticref "https://osf.io/km5jv/" "newtab" >}}[OSF]{{< /staticref >}}**
+6. Uysal, B., Franzen, M. F., Wieser, M. J., & **Wong, A. H. K.**. (in prep.). Avoiding Fear Keeps It Alive: How Avoidance of Learned Fear Shapes Extinction and Fear Retention. **{{< staticref "https://osf.io/gs5tz/overview" "newtab" >}}[OSF]{{< /staticref >}}**
 <br/><br/>
 
 
